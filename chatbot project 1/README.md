@@ -9,7 +9,7 @@
 | Field        | Details                         |
 |--------------|----------------------------------|
 | **Project**  | DecodeLabs Project 1             |
-| **Domain**   | Artificial Intelligence — Control Flow & Logic |
+| **Domain**   | Artificial Intelligence — Control Flow & Logic 
 | **Type**     | Rule-Based / White-Box AI        |
 | **Language** | Python 3.x                       |
 | **Batch**    | 2026                             |
