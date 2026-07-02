@@ -1,7 +1,7 @@
 
 #   DecodeLabs | Project 1
 #   Rule-Based AI Chatbot
-#   Domain  : Artificial Intelligence Control Flow & Logic
+
 RESPONSES = {
     # ── Greetings ───────
     "hello"        : "Hello! 👋 Welcome to DecodeLabs AI Assistant. How can I help you today?",
@@ -94,7 +94,7 @@ def get_response(clean_input: str) -> str:
 
 
 #  PHASE 3 : THE HEARTBEAT — INFINITE LOOP
-#  Organism stays alive until the Kill Command
+
 
 def run_chatbot():
     """Main chatbot loop — IPO Model in action."""
